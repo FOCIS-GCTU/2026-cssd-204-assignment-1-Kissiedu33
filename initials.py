@@ -14,10 +14,10 @@
 
 
 def main():     #this is the main function that will be called when the program runs.
-
     print()         #this is a blank line to make the output look nicer
 
     print("...KTO")     #this is the first line of the output.
+
     print()   #this is a blank line to make the output look nicer
 
 #the following lines are the rest of the output. Each line is printed separately to make it easier to read and understand.
